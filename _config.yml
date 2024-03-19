@@ -81,11 +81,6 @@ links:
 #      show: false
 #      href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
 #      icon: fab fa-google-plus
-  - twitter:
-      name: Twitter
-      show: true
-      href: https://twitter.com/bandadeer
-      icon: fab fa-twitter
 #  - weibo:
 #      name: 微博
 #      show: true
@@ -96,11 +91,6 @@ links:
 #      show: false
 #      href: https://vine.co/YOUR_VINE_USERNAME
 #      icon: fab fa-vine
-#  - facebook:
-#      name: Facebook
-#      show: false
-#      href: https://facebook.com/YOUR_FB_USERNAME
-#      icon: fab fa-facebook
 #  - vkontakte:
 #      name: ВКонтакте
 #      show: true
@@ -111,6 +101,21 @@ links:
       show: true
       href: https://instagram.com/bandadeer
       icon: fab fa-instagram
+  - facebook:
+      name: Facebook
+      show: true
+      href: https://facebook.com/bandadeer
+      icon: fab fa-facebook
+  - mastodon:
+      name: Mastodon
+      show: true
+      href: https://musicians.today/@bandadeer
+      icon: fab fa-mastodon
+  - twitter:
+      name: Twitter
+      show: true
+      href: https://twitter.com/bandadeer
+      icon: fab fa-twitter
 #  - flickr:
 #      name: Flickr
 #      show: false
