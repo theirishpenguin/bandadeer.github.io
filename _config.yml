@@ -184,7 +184,10 @@ links:
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
-#extra_html:
+extra_html:
+  #<div align="center">
+  #<div class="iDonateWidgetPage"><div id="wrapper_MTE1MjI1MDUqcHQscCxhLHQsZA" class="MTE1MjI1MDUqcHQscCxhLHQsZA"></div><script src="https://actions.idonate.ie/socket.io/socket.io.js"></script><script>!function(){var t=io.connect("https://actions.idonate.ie/",{upgrade:false});t.on("connectpagewidget",function(e,n){n({}),t.emit("get_pagewidget",{enc:"MTE1MjI1MDUqcHQscCxhLHQsZA=="},function(e){for(var n=document.getElementsByClassName("MTE1MjI1MDUqcHQscCxhLHQsZA"),t=0;t<n.length;t++)n[t].innerHTML=e.html})})}();</script></div>
+  #</div>
 # extra_html: >
 #  <p>The Band!</p>
 #  <p>Yes, the Band!</p>
