@@ -12,7 +12,7 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Bandadeer
+name: bandadeer
 #subtitle:
 subtitle: Their debut single <span style="font-size:xx-large;font-weight:bold">Souless Shoes</span> is out next month as part of the <a style="color:#f2f79f;;background:#ff197a;font-weight:bold" href="https://www.play4good.ie/"> Play4Good</a> virtual tour.
 
@@ -126,11 +126,6 @@ links:
 #      show: false
 #      href: http://steamcommunity.com/id/YOUR_STEAM_CUSTOM_ID
 #      icon: fab fa-steam
-#  - soundcloud:
-#      name: Soundcloud
-#      show: false
-#      href: https://soundcloud.com/YOUR_SOUNDCLOUD_USERNAME
-#      icon: fab fa-soundcloud
 #  - lastfm:
 #      name: Last.fm
 #      show: false
@@ -171,6 +166,11 @@ links:
 #      show: true
 #      href: http://host.domain/your_blog
 #      icon: fas fa-book-open
+  - soundcloud:
+      name: Soundcloud
+      show: false
+      href: https://soundcloud.com/bandadeer
+      icon: fab fa-soundcloud
   - email:
       name: Email
       show: true
