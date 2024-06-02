@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: bandadeer
 #subtitle:
-subtitle: Their debut single <span style="font-size:xx-large;font-weight:bold">Souless Shoes</span> is out next month as part of the <a style="color:#f2f79f;;background:#ff197a;font-weight:bold" href="https://www.play4good.ie/"> Play4Good</a> virtual tour.
+subtitle: Their debut single <span style="font-size:xx-large;font-weight:bold">Souless Shoes</span> is out Wednesday, 26th June 2024 as part of the <a style="color:#f2f79f;;background:#ff197a;font-weight:bold" href="https://www.play4good.ie/"> Play4Good</a> virtual tour.
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
