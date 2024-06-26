@@ -96,6 +96,16 @@ links:
 #      show: true
 #      href: https://vk.com/YOUR_VK_USERNAME
 #      icon: fab fa-vk
+  - spotify:
+      name: Spotify
+      show: true
+      href: https://open.spotify.com/artist/4RibbcFxjVzKGoC8qJC6de?si=hGc-glyxTo-iJwsPNC-pVg
+      icon: fab fa-spotify
+  - donate:
+        name: Donate To Charity
+        show: true
+        href: https://www.idonate.ie/fundraiser/bandadeer-dub
+        icon: fas fa-hand-holding-heart fa-fw
   - instagram:
       name: Instagram
       show: true
